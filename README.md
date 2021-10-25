@@ -1,6 +1,10 @@
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=heyjacques)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ol%C3%A1👋;Hi+there👋;Salut👋;Ciao👋;Hallo👋)](https://git.io/typing-svg) 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyjacques&langs_count=10&count_private=true&theme=radical)](https://github.com/heyjacques/github-readme-stat)
+
+![VISITOR](https://visitor-badge.laobi.icu/badge?page_id=heyjacques)
+
 
 
 
